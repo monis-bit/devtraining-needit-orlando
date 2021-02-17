@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="occasions_staging" max_length="40" name="x_58872_needit_occasions_staging" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=ADMIN Fundamentals ( 10 hrs)" label="ADMIN Fundamentals ( 10 hrs)" max_length="48" name="u_admin_fundamentals___10_hrs_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=APPLICATION DEVELPOMENT ( 15 hrs)" label="APPLICATION DEVELPOMENT ( 15 hrs)" max_length="45" name="u_application__ment___15_hrs_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SERVICENOW SCRIPTING ( 15 hrs)" label="SERVICENOW SCRIPTING ( 15 hrs)" max_length="55" name="u_servicenow_s_ting___15_hrs_" type="string"/>
+    </element>
+</database>
